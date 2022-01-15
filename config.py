@@ -1,0 +1,1 @@
+personalKey = 'YOUR_KEY'
