@@ -1,1 +1,0 @@
-personalKey = 'YOUR_KEY'
