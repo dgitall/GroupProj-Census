@@ -1,0 +1,29 @@
+MOTUSETECH,MOTUSETECH_LABEL,NSFSZFI,NSFSZFI_LABEL,FIRMPDEMP
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,001,All firms,39038
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,001,All firms,52605
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,001,All firms,69935
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,001,All firms,33748
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,001,All firms,16651
+T1E04C06,Artificial Intelligence: Some other reason,001,All firms,25848
+T1E04C99,Artificial Intelligence: Total Reporting,001,All firms,141731
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,811,Firms with no employees,2675
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,811,Firms with no employees,3065
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,811,Firms with no employees,3997
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,811,Firms with no employees,2094
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,811,Firms with no employees,915
+T1E04C06,Artificial Intelligence: Some other reason,811,Firms with no employees,2037
+T1E04C99,Artificial Intelligence: Total Reporting,811,Firms with no employees,9493
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,815,Firms with 1 to 9 employees,23840
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,815,Firms with 1 to 9 employees,31894
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,815,Firms with 1 to 9 employees,44887
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,815,Firms with 1 to 9 employees,21334
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,815,Firms with 1 to 9 employees,10549
+T1E04C06,Artificial Intelligence: Some other reason,815,Firms with 1 to 9 employees,18835
+T1E04C99,Artificial Intelligence: Total Reporting,815,Firms with 1 to 9 employees,94888
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,857,Firms with 10 employees or more,12521
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,857,Firms with 10 employees or more,17646
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,857,Firms with 10 employees or more,21050
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,857,Firms with 10 employees or more,10318
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,857,Firms with 10 employees or more,5185
+T1E04C06,Artificial Intelligence: Some other reason,857,Firms with 10 employees or more,4976
+T1E04C99,Artificial Intelligence: Total Reporting,857,Firms with 10 employees or more,37349
