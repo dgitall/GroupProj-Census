@@ -44,5 +44,5 @@ The explained process steps for pulling and transforming the data can be found i
 ## Conclusions
 The final report is named Assessment-Project-Report.docx
 
-## Requireed Modules
+## Required Modules
 json, requests, pandas, geopandas, matplotlib, palettable
