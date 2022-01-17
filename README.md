@@ -39,7 +39,11 @@ The explained process steps for pulling and transforming the data can be found i
 		* motivation_delaware.png
 		* motivation_information_firm.png
 		* motivation_large_firm.png
-4. 
+4. technology_factors.ipynb and technology_factors_state-map.ipynb are two files that creates visualization for this section. 
+	* The output png images of the visualizations produced from running this code are in the Visualizations folder:
+		*ps1.png
+		*ps2.png
+		*ps3.png
 
 ## Conclusions
 The final report is named Assessment-Project-Report.docx
