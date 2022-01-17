@@ -11,7 +11,7 @@ Questions posed:
 * What firms already have high acceptance of AI (use is high)? 
 * Does AI technology use affect the number of workers, worker skill level, and STEM skills of workers?  
 * What is the motivation behind firms using AI (specifically firms who report high use)?
-* What is the main factor that adversely affects the adoption or utilization of AI (besides not applicable and no factors affected)? 
+* What is the main factor that adversely affects the adoption or utilization of AI among those most likely to adopt AI? 
  
 ## Data Sources
 * Data provider 1: Census Bureau - https://api.census.gov/data.html
@@ -22,8 +22,12 @@ Questions posed:
 
 ## Pulling and Transforming
 The explained process steps for pulling and transforming the data can be found in Assessment-ETL-Report.docx
-1.
-2.
+1. Data can be pulled and transformed to answer this question using the file: Question1-highuse-ETLy.ipynb
+	    * The output csv files from the pulling and tranforming are in the Data folder: 
+		* TechUseHigh_Sector_us.csv
+		* TechUseHigh_state.csv
+		* TechUseHigh_Size_us.csv
+2. This question can be answered using the following code: impact_delaware.ipynb, impact_skill_level.ipynb, impact_worker_number.ipynb
 3. Data can be pulled and transformed to answer this question using the file: motivation-technology.ipynb
 	* The output csv files from the pulling and tranforming are in the Data folder: 
 		* motivation_by_industry.csv
@@ -32,7 +36,16 @@ The explained process steps for pulling and transforming the data can be found i
 4. technology_factors.ipynb is the main file that etracts, transforms and creates bar chart visualization. It also creates state_data.csv file which is read by technology_factors_state-map.ipynb to create heat map visualization.  
 
 ## Analyzing and Visualizing
+<<<<<<< Updated upstream
 1.
+=======
+1. The code to analyze and visualize the data to answer this question is found in the file: Question1-highuse-Analysis.py
+	* The output png images of the visualizations produced from running this code are in the Visualizations folder:
+		* Q1_Firm.png
+		* Q1_Sector.png
+		* Q1_StateMap.png
+		* Q1_RegionMap.png
+>>>>>>> Stashed changes
 2. This question can be answered using the following code: impact_delaware.ipynb, impact_skill_level.ipynb, impact_worker_number.ipynb
 3. The code to analyze and visualize the data to answer this question is found in the file: motivation-technology-analysis.py
 	* The output png images of the visualizations produced from running this code are in the Visualizations folder:
@@ -47,6 +60,7 @@ The explained process steps for pulling and transforming the data can be found i
 
 ## Conclusions
 The final report is named Assessment-Project-Report.docx
+The ETL is named Assessment-Project-ETL.docx
 
 ## Required Modules
 json, requests, pandas, geopandas, matplotlib, palettable
