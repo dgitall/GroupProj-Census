@@ -33,7 +33,7 @@ The explained process steps for pulling and transforming the data can be found i
 
 ## Analyzing and Visualizing
 1.
-2.
+2. This question can be answered using the following code: impact_delaware.ipynb, impact_skill_level.ipynb, impact_worker_number.ipynb
 3. The code to analyze and visualize the data to answer this question is found in the file: motivation-technology-analysis.py
 	* The output png images of the visualizations produced from running this code are in the Visualizations folder:
 		* motivation_delaware.png
