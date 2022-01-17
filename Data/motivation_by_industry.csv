@@ -99,10 +99,10 @@ T1E04C06,Artificial Intelligence: Some other reason,55,Management of companies a
 T1E04C99,Artificial Intelligence: Total Reporting,55,Management of companies and enterprises,889
 T1E04C01,Artificial Intelligence: To automate tasks performed by labor,56,Administrative and support and waste management and remediation services,2187
 T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,56,Administrative and support and waste management and remediation services,2974
-T1E04C06,Artificial Intelligence: Some other reason,56,Administrative and support and waste management and remediation services,1677
 T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,56,Administrative and support and waste management and remediation services,3592
 T1E04C04,Artificial Intelligence: To expand the range of goods or services,56,Administrative and support and waste management and remediation services,1791
 T1E04C05,Artificial Intelligence: To adopt standards and accreditation,56,Administrative and support and waste management and remediation services,529
+T1E04C06,Artificial Intelligence: Some other reason,56,Administrative and support and waste management and remediation services,1677
 T1E04C99,Artificial Intelligence: Total Reporting,56,Administrative and support and waste management and remediation services,7840
 T1E04C01,Artificial Intelligence: To automate tasks performed by labor,62,Health care and social assistance,4179
 T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,62,Health care and social assistance,5928
@@ -132,8 +132,8 @@ T1E04C04,Artificial Intelligence: To expand the range of goods or services,71,"A
 T1E04C05,Artificial Intelligence: To adopt standards and accreditation,71,"Arts, entertainment, and recreation",103
 T1E04C06,Artificial Intelligence: Some other reason,71,"Arts, entertainment, and recreation",498
 T1E04C99,Artificial Intelligence: Total Reporting,71,"Arts, entertainment, and recreation",1452
-T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,81,Other services (except public administration),2211
 T1E04C01,Artificial Intelligence: To automate tasks performed by labor,81,Other services (except public administration),0
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,81,Other services (except public administration),2211
 T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,81,Other services (except public administration),2568
 T1E04C04,Artificial Intelligence: To expand the range of goods or services,81,Other services (except public administration),1525
 T1E04C05,Artificial Intelligence: To adopt standards and accreditation,81,Other services (except public administration),805
