@@ -36,16 +36,12 @@ The explained process steps for pulling and transforming the data can be found i
 4. technology_factors.ipynb is the main file that etracts, transforms and creates bar chart visualization. It also creates state_data.csv file which is read by technology_factors_state-map.ipynb to create heat map visualization.  
 
 ## Analyzing and Visualizing
-<<<<<<< Updated upstream
-1.
-=======
 1. The code to analyze and visualize the data to answer this question is found in the file: Question1-highuse-Analysis.py
 	* The output png images of the visualizations produced from running this code are in the Visualizations folder:
 		* Q1_Firm.png
 		* Q1_Sector.png
 		* Q1_StateMap.png
 		* Q1_RegionMap.png
->>>>>>> Stashed changes
 2. This question can be answered using the following code: impact_delaware.ipynb, impact_skill_level.ipynb, impact_worker_number.ipynb
 3. The code to analyze and visualize the data to answer this question is found in the file: motivation-technology-analysis.py
 	* The output png images of the visualizations produced from running this code are in the Visualizations folder:
