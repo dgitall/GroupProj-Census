@@ -1,0 +1,148 @@
+MOTUSETECH,MOTUSETECH_LABEL,NAICS2017,NAICS2017_LABEL,FIRMPDEMP
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,00,Total for all sectors,39038
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,00,Total for all sectors,52605
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,00,Total for all sectors,69935
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,00,Total for all sectors,33748
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,00,Total for all sectors,16651
+T1E04C06,Artificial Intelligence: Some other reason,00,Total for all sectors,25848
+T1E04C99,Artificial Intelligence: Total Reporting,00,Total for all sectors,141731
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,11,"Agriculture, forestry, fishing and hunting",220
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,11,"Agriculture, forestry, fishing and hunting",116
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,11,"Agriculture, forestry, fishing and hunting",95
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,11,"Agriculture, forestry, fishing and hunting",66
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,11,"Agriculture, forestry, fishing and hunting",0
+T1E04C06,Artificial Intelligence: Some other reason,11,"Agriculture, forestry, fishing and hunting",0
+T1E04C99,Artificial Intelligence: Total Reporting,11,"Agriculture, forestry, fishing and hunting",317
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,22,Utilities,33
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,22,Utilities,27
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,22,Utilities,67
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,22,Utilities,20
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,22,Utilities,3
+T1E04C06,Artificial Intelligence: Some other reason,22,Utilities,10
+T1E04C99,Artificial Intelligence: Total Reporting,22,Utilities,77
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,21,"Mining, quarrying, and oil and gas extraction",103
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,21,"Mining, quarrying, and oil and gas extraction",120
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,21,"Mining, quarrying, and oil and gas extraction",130
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,21,"Mining, quarrying, and oil and gas extraction",33
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,21,"Mining, quarrying, and oil and gas extraction",6
+T1E04C06,Artificial Intelligence: Some other reason,21,"Mining, quarrying, and oil and gas extraction",18
+T1E04C99,Artificial Intelligence: Total Reporting,21,"Mining, quarrying, and oil and gas extraction",290
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,42,Wholesale trade,1650
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,42,Wholesale trade,2221
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,42,Wholesale trade,2657
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,42,Wholesale trade,1368
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,42,Wholesale trade,533
+T1E04C06,Artificial Intelligence: Some other reason,42,Wholesale trade,1082
+T1E04C99,Artificial Intelligence: Total Reporting,42,Wholesale trade,5775
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,31-33,Manufacturing,2500
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,31-33,Manufacturing,3070
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,31-33,Manufacturing,3618
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,31-33,Manufacturing,1653
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,31-33,Manufacturing,836
+T1E04C06,Artificial Intelligence: Some other reason,31-33,Manufacturing,872
+T1E04C99,Artificial Intelligence: Total Reporting,31-33,Manufacturing,6507
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,23,Construction,2468
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,23,Construction,3662
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,23,Construction,4687
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,23,Construction,2076
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,23,Construction,1308
+T1E04C06,Artificial Intelligence: Some other reason,23,Construction,2123
+T1E04C99,Artificial Intelligence: Total Reporting,23,Construction,10344
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,44-45,Retail trade,2921
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,44-45,Retail trade,4812
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,44-45,Retail trade,5821
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,44-45,Retail trade,4006
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,44-45,Retail trade,1822
+T1E04C06,Artificial Intelligence: Some other reason,44-45,Retail trade,2292
+T1E04C99,Artificial Intelligence: Total Reporting,44-45,Retail trade,13302
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,48-49,Transportation and warehousing,835
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,48-49,Transportation and warehousing,1410
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,48-49,Transportation and warehousing,1937
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,48-49,Transportation and warehousing,646
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,48-49,Transportation and warehousing,546
+T1E04C06,Artificial Intelligence: Some other reason,48-49,Transportation and warehousing,756
+T1E04C99,Artificial Intelligence: Total Reporting,48-49,Transportation and warehousing,3827
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,52,Finance and insurance,2633
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,52,Finance and insurance,3834
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,52,Finance and insurance,4990
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,52,Finance and insurance,2239
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,52,Finance and insurance,1079
+T1E04C06,Artificial Intelligence: Some other reason,52,Finance and insurance,1275
+T1E04C99,Artificial Intelligence: Total Reporting,52,Finance and insurance,8914
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,51,Information,1554
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,51,Information,1754
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,51,Information,2223
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,51,Information,1580
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,51,Information,241
+T1E04C06,Artificial Intelligence: Some other reason,51,Information,711
+T1E04C99,Artificial Intelligence: Total Reporting,51,Information,4134
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,53,Real estate and rental and leasing,2421
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,53,Real estate and rental and leasing,3209
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,53,Real estate and rental and leasing,3928
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,53,Real estate and rental and leasing,1284
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,53,Real estate and rental and leasing,919
+T1E04C06,Artificial Intelligence: Some other reason,53,Real estate and rental and leasing,1750
+T1E04C99,Artificial Intelligence: Total Reporting,53,Real estate and rental and leasing,8613
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,54,"Professional, scientific, and technical services",12305
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,54,"Professional, scientific, and technical services",14082
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,54,"Professional, scientific, and technical services",20395
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,54,"Professional, scientific, and technical services",10338
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,54,"Professional, scientific, and technical services",3339
+T1E04C06,Artificial Intelligence: Some other reason,54,"Professional, scientific, and technical services",6223
+T1E04C99,Artificial Intelligence: Total Reporting,54,"Professional, scientific, and technical services",38339
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,55,Management of companies and enterprises,466
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,55,Management of companies and enterprises,537
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,55,Management of companies and enterprises,572
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,55,Management of companies and enterprises,249
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,55,Management of companies and enterprises,74
+T1E04C06,Artificial Intelligence: Some other reason,55,Management of companies and enterprises,56
+T1E04C99,Artificial Intelligence: Total Reporting,55,Management of companies and enterprises,889
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,56,Administrative and support and waste management and remediation services,2187
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,56,Administrative and support and waste management and remediation services,2974
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,56,Administrative and support and waste management and remediation services,3592
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,56,Administrative and support and waste management and remediation services,1791
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,56,Administrative and support and waste management and remediation services,529
+T1E04C06,Artificial Intelligence: Some other reason,56,Administrative and support and waste management and remediation services,1677
+T1E04C99,Artificial Intelligence: Total Reporting,56,Administrative and support and waste management and remediation services,7840
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,62,Health care and social assistance,4179
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,62,Health care and social assistance,5928
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,62,Health care and social assistance,9171
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,62,Health care and social assistance,2993
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,62,Health care and social assistance,3541
+T1E04C06,Artificial Intelligence: Some other reason,62,Health care and social assistance,3214
+T1E04C99,Artificial Intelligence: Total Reporting,62,Health care and social assistance,16814
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,61,Educational services,444
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,61,Educational services,693
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,61,Educational services,633
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,61,Educational services,414
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,61,Educational services,145
+T1E04C06,Artificial Intelligence: Some other reason,61,Educational services,0
+T1E04C99,Artificial Intelligence: Total Reporting,61,Educational services,1581
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,72,Accommodation and food services,2105
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,72,Accommodation and food services,3084
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,72,Accommodation and food services,4155
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,72,Accommodation and food services,1908
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,72,Accommodation and food services,1085
+T1E04C06,Artificial Intelligence: Some other reason,72,Accommodation and food services,1804
+T1E04C99,Artificial Intelligence: Total Reporting,72,Accommodation and food services,8957
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,71,"Arts, entertainment, and recreation",253
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,71,"Arts, entertainment, and recreation",516
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,71,"Arts, entertainment, and recreation",635
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,71,"Arts, entertainment, and recreation",276
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,71,"Arts, entertainment, and recreation",103
+T1E04C06,Artificial Intelligence: Some other reason,71,"Arts, entertainment, and recreation",498
+T1E04C99,Artificial Intelligence: Total Reporting,71,"Arts, entertainment, and recreation",1452
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,81,Other services (except public administration),0
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,81,Other services (except public administration),2211
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,81,Other services (except public administration),2568
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,81,Other services (except public administration),1525
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,81,Other services (except public administration),805
+T1E04C06,Artificial Intelligence: Some other reason,81,Other services (except public administration),1259
+T1E04C99,Artificial Intelligence: Total Reporting,81,Other services (except public administration),6138
+T1E04C01,Artificial Intelligence: To automate tasks performed by labor,99,Industries not classified,0
+T1E04C02,Artificial Intelligence: To upgrade outdated processes or methods,99,Industries not classified,0
+T1E04C03,Artificial Intelligence: To improve quality or reliability of processes or methods,99,Industries not classified,191
+T1E04C04,Artificial Intelligence: To expand the range of goods or services,99,Industries not classified,0
+T1E04C05,Artificial Intelligence: To adopt standards and accreditation,99,Industries not classified,0
+T1E04C06,Artificial Intelligence: Some other reason,99,Industries not classified,146
+T1E04C99,Artificial Intelligence: Total Reporting,99,Industries not classified,572
