@@ -29,7 +29,7 @@ The explained process steps for pulling and transforming the data can be found i
 		* motivation_by_industry.csv
 		* motivation_by_state.csv
 		* motivation_by_size.csv
-4.
+4. technology_factors.ipynb is the main file that etracts, transforms and creates bar chart visualization. It also creates state_data.csv file which is read by technology_factors_state-map.ipynb to create heat map visualization.  
 
 ## Analyzing and Visualizing
 1.
