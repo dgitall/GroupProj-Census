@@ -1,21 +1,45 @@
-# Exercise: Creating Visualizations While Exploring Data
+# Census API Data – Annual Business Survey 2019
+
+## Contributors
+Darrell Gerber, Grace Seiler, Pemba Sherpa, Amy Yucus
+
+## Motivation
+This project was created as an assessment for the Python Basics module of Genesis10's Dev10 program - Data Professional track.
+We are exploring the Census Bureau's Annual Business Survey Technology Characteristics of Businesses API.
+
+Questions posed: 
+* What firms already have high acceptance of AI (use is high)? 
+* Does AI technology use affect the number of workers, worker skill level, and STEM skills of workers?  
+* What is the motivation behind firms using AI (specifically firms who report high use)?
+* What is the main factor that adversely affects the adoption or utilization of AI (besides not applicable and no factors affected)? 
  
-## Part 1: Get into Groups and Review the API
-Get into groups and review the following materials:
+## Data Sources
+* Data provider 1: Census Bureau - https://api.census.gov/data.html
+	* Specific dataset: Annual Business Survey (ABS) APIs for 2019: https://www.census.gov/data/developers/data-sets/abs.2019.html
+	* Get an API key: https://www.census.gov/data/developers/guidance/api-user-guide.Help_&_Contact_Us.html
+* Data provider 2: census-regions - https://github.com/cphalpert/census-regions
 
-* Data provider: Census Bureau - https://api.census.gov/data.html
-* Specific dataset: Annual Business Survey (ABS) APIs for 2019: https://www.census.gov/data/developers/data-sets/abs.2019.html
-* Get an API key: https://www.census.gov/data/developers/guidance/api-user-guide.Help_&_Contact_Us.html
-## Part 2: Explore the Dataset
-Explore each of the endpoints individually to understand what data they provide. Explore them wholly to see how they connect.
 
-You will have to consume the API, clean data, merge data, and transform data in order to show how they wholly connect.
+## Pulling and Transforming
+The explained process steps for pulling and transforming the data can be found in Assessment-ETL-Report.docx
+1.
+2.
+3. Data can be pulled and transformed to answer this question using the file: motivation-technology.ipynb
+	* The output csv files from the pulling and tranforming are in the Data folder: 
+		* motivation_by_industry.csv
+		* motivation_by_state.csv
+		* motivation_by_size.csv
+4.
 
-Create visualizations as you explore using at least 2 visualization packages and at least 3 different visualizations per user in your group.
+## Analyzing and Visualizing
+1.
+2.
+3. The code to analyze and visualize the data to answer this question is found in the file: motivation-technology-analysis.py
+	* The output png images of the visualizations produced from running this code are in the Visualizations folder:
+		* motivation_delaware.png
+		* motivation_information_firm.png
+		* motivation_large_firm.png
+4. 
 
-What have you found out about your data?
-
-## Part 3: Present your Exploration
-You will be presenting your findings to the class.
-
-**Keep in mind that this is showing exploration.**
+## Conclusions
+The final report is named Assessment-Project-Report.docx
